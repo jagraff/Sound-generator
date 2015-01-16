@@ -1,7 +1,7 @@
 #!/bin/bash
 # The input propgram must have characters written to stdout
 # These characters are piped to the sound program sox (http://sox.sourceforge.net/)
-# currently, only python programs are accepted
+# Any executable binary should run
 
 echo "Please enter the program binary to create input sounds"
 read program_name
