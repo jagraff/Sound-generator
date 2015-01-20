@@ -7,6 +7,7 @@ int main(void)
 	double i = 0;
 	for (i = 0;i < 2000;i+=.1)
 	{
+		//Writing to output
 		
 		putchar(127*(sin(i)+1)); x
 	}
