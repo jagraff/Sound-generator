@@ -8,7 +8,7 @@ with SoX (http://sox.sourceforge.net/) installed
 
 ./SoundMaker.sh
 
-SoundMaker will prompt you for a file to create sound from
+SoundMaker will prompt you for a file to create sound from.
 Once a file is inputed, SoundMaker will funnel all of the 
 programs stdout stream to the audio driver of your computer.
 
